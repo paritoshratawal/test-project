@@ -1,0 +1,71 @@
+[
+    {
+        "agent": "rahul",
+        "user": {
+            "first_name": "Ravi",
+            "dob": "20-12-1983",
+            "address": "gol market, new delhi",
+            "phone_number": "9821324354",
+            "state": "Delhi",
+            "zip_code": "110001",
+            "email": "ravi@gmail.com",
+            "gender": "M",
+            "user_type": "user"
+        },
+        "user_account": "user",
+        "policy_category": "insurance",
+        "policy_carrier": "vehicle ",
+        "policy_info": {
+            "policy_number": "AS32445DDF34",
+            "policy_start_date": "12-4-2023",
+            "policy_end_date": "11-3-2024",
+            "policy_category": "Automobile"
+        }
+    },
+    {
+        "agent": "rahul",
+        "user": {
+            "first_name": "sunil",
+            "dob": "09-09-1990",
+            "address": "A.G.c.r enclave, new delhi",
+            "phone_number": "9843234354",
+            "state": "Delhi",
+            "zip_code": "110002",
+            "email": "sunil@gmail.com",
+            "gender": "M",
+            "user_type": "user"
+        },
+        "user_account": "user",
+        "policy_category": "insurance",
+        "policy_carrier": "vehicle ",
+        "policy_info": {
+            "policy_number": "DF34454FVC",
+            "policy_start_date": "21-4-2023",
+            "policy_end_date": "20-3-2024",
+            "policy_category": "Automobile"
+        }
+    },
+    {
+        "agent": "rahul",
+        "user": {
+            "first_name": "amit",
+            "dob": "11-04-1987",
+            "address": "Ajmeri Gate extn., new delhi",
+            "phone_number": "7912324345",
+            "state": "Delhi",
+            "zip_code": "110002",
+            "email": "amit@gmail.com",
+            "gender": "M",
+            "user_type": "user"
+        },
+        "user_account": "user",
+        "policy_category": "insurance",
+        "policy_carrier": "vehicle ",
+        "policy_info": {
+            "policy_number": "RT34455TY43",
+            "policy_start_date": "11-7-2023",
+            "policy_end_date": "10-6-2024",
+            "policy_category": "Automobile"
+        }
+    }
+]

@@ -1,0 +1,4 @@
+﻿"agent","user__first_name","user__dob","user__address","user__phone_number","user__state","user__zip_code","user__email","user__gender","user__user_type","user_account","policy_category","policy_carrier","policy_info__policy_number","policy_info__policy_start_date","policy_info__policy_end_date","policy_info__policy_category"
+"rahul","Ravi","01-12-1989","gol market, new delhi","9821324354","Delhi","110001","ravi@gmail.com","M","user","user","insurance","vehicle ","AS32445DDF34","12-4-2023","11-3-2024","Automobile"
+"rahul","sunil","09-09-1990","A.G.c.r enclave, new delhi","9843234354","Delhi","110002","sunil@gmail.com","M","user","user","insurance","vehicle ","DF34454FVC","21-4-2023","20-3-2024","Automobile"
+"rahul","amit","11-04-1987","Ajmeri Gate extn., new delhi","7912324345","Delhi","110002","amit@gmail.com","M","user","user","insurance","vehicle ","RT34455TY43","11-7-2023","10-6-2024","Automobile"
